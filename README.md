@@ -1,4 +1,1 @@
-niche-tech-dashboard
-====================
-
-Tech Dashboard for Niche.com
+Check out http://shopify.github.com/dashing for more information.
