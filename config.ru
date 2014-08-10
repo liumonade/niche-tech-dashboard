@@ -1,4 +1,5 @@
 require 'dashing'
+require 'newrelic_rpm'
 
 configure do
   set :auth_token, ENV['AUTH_TOKEN'] || 'DEV_AUTH_TOKEN'

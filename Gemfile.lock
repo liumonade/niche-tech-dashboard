@@ -22,6 +22,7 @@ GEM
     execjs (2.0.2)
     hike (1.2.3)
     multi_json (1.10.1)
+    newrelic_rpm (3.9.1.236)
     rack (1.5.2)
     rack-protection (1.5.3)
       rack
@@ -61,3 +62,4 @@ PLATFORMS
 
 DEPENDENCIES
   dashing
+  newrelic_rpm
